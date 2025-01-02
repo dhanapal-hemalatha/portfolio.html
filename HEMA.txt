@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="./NATURE.JPG " alt="Your Profile Picture" class="profile-picture">
+            <img src="https://github.com/dhanapal-hemalatha/portfolio.html/blob/main/NATURE.jpg?raw=true" alt="Your Profile Picture" class="profile-picture">
             <h1>M HEMALATHA</h1>
             <p>ASSISTANT PROFESSOR</p>
         </div>
