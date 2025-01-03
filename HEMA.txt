@@ -151,9 +151,9 @@
         <div class="section-content">
             <h2>Projects</h2>
             <ul>
-                <li><a href="#">AI Based alternator control system</a></li>
-                <li><a href="https://github.com/techtrainer20/blockchain.git">Cloud Security IBM</a></li>
-                <li><a href="#">IBM chetbot</a></li>
+                <li><a href="#">manet</a></li>
+                <li><a href="https://github.com/techtrainer20/blockchain.git">data mining </a></li>
+                <li><a href="#">naan mudhalavan</a></li>
                 <li><a href="#">chetbot</a></li> 
                 <!-- Add more project links here -->
             </ul>
